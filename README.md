@@ -6,7 +6,7 @@ A Machine Learning project designed to assist doctors in determining the necessi
 ## Step 1: Clone the Repository or Download the ZIP
 
 Clone the repository or download the ZIP file from the following Git link:
-`<link>`
+`[<link>](https://github.com/Hrishi512/Healthcare_Ally)`
 
 ## Step 2: Folder Structure
 
